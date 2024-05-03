@@ -1,6 +1,4 @@
 # Heart-Disease-Prediction
-Title: Machine Learning for Heart Disease Prediction: A Concise Analysis
-
 Introduction:
 This project focuses on using machine learning (ML) to predict heart disease risk based on clinical data. We leverage a comprehensive dataset comprising patient demographics, physiological measurements, lifestyle factors, and diagnostic test results.
 
